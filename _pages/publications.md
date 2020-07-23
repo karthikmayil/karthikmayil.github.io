@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## 2020
 
 - Hui, Z.; **Mayilvahanan, K.**; Yang, Y.; West, A. C. Determining the Length Scale of Transport Impedances in Li-Ion Electrodes: Li(Ni<sub>0.33</sub>Mn<sub>0.33</sub>Co<sub>0.33</sub>)O<sub>2</sub>. 2020. [paper](https://iopscience.iop.org/article/10.1149/1945-7111/ab9cce/meta)
