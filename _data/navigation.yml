@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  [comment]: # (- title: "Talks"
-    url: /talks/)  
+  [comment]: # (- title: "Talks")
+    [comment]: # (url: /talks/)  
 
-  [comment]: # (- title: "Teaching"
-    url: /teaching/)    
+  [comment]: # (- title: "Teaching")
+    [comment]: # (url: /teaching/)    
     
-  [comment]: # (- title: "Education"
-    url: /education/)
+  [comment]: # (- title: "Education")
+    [comment]: # (url: /education/)
