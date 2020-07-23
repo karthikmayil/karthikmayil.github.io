@@ -2,12 +2,3 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  [comment]: # (- title: "Talks")
-    [comment]: # (url: /talks/)  
-
-  [comment]: # (- title: "Teaching")
-    [comment]: # (url: /teaching/)    
-    
-  [comment]: # (- title: "Education")
-    [comment]: # (url: /education/)
