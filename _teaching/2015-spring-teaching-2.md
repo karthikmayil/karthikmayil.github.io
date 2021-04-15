@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Engineering Applications of Electrochemistry"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Course"
+permalink: []: # (/teaching/2015-spring-teaching-1)
+venue: "Columbia University, Department of Chemical Engineering"
+date: Fall 2019, Fall 2020
+location: "New York, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Graduate level electrochemistry
 
 Heading 1
 ======
