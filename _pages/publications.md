@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2021
+- Hui, Z.; **Mayilvahanan, K.**; Ganko, K.; Yang, Y.; Zhang, X.; Ju, Z.; Takeuchi, K. J.; Marschilok, A. C.; Yu, G.; Takeuchi, E.; West, A. C. Optimal Electrode-Scale Design of Li-Ion Electrodes: A General Correlation. *Energy Storage Materials*, 2021. [paper](https://doi.org/10.1016/j.ensm.2021.04.018).
+
+
 ## 2020
 
 - McCarthy, A. H.; **Mayilvahanan, K.**; Dunkin, M. R.; King, S. T.; Quilty, C. D.; Housel, L. M.; Kuang, J.; Takeuchi, K. J.; Takeuchi, E. S.; West, A. C.; Wang, L.; Marschilok, A. C. Lithium Vanadium Oxide (Li<sub>1.1</sub>V<sub>3</sub>O<sub>8</sub>) Thick Porous Electrodes With High Rate Capacity: Utilization and Evolution Upon Extended Cycling Elucidated via Operando Energy Dispersive X-ray Diffraction and Continuum Simulation. *Physical Chemistry Chemical Physics*, 2020. [paper](http://xlink.rsc.org/?DOI=D0CP04622A.)
