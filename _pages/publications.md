@@ -8,7 +8,6 @@ author_profile: true
 ## 2021
 
 -Li, A. G.; **Mayilvahanan, K.**; West, A. C.; Preindl, M. Discrete-Time Modeling of Li-Ion Batteries with Electrochemical Overpotentials Including Diffusion. *Journal of Power Sources*, 2021. [paper](https://doi.org/10.1016/j.jpowsour.2021.229991).
-
 - Hui, Z.; **Mayilvahanan, K.**; Ganko, K.; Yang, Y.; Zhang, X.; Ju, Z.; Takeuchi, K. J.; Marschilok, A. C.; Yu, G.; Takeuchi, E.; West, A. C. Optimal Electrode-Scale Design of Li-Ion Electrodes: A General Correlation. *Energy Storage Materials*, 2021. [paper](https://doi.org/10.1016/j.ensm.2021.04.018).
 
 
