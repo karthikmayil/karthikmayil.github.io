@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2021
 
--**Mayilvahanan, K. S.**; Kuang, J.; McCarthy, A. H.; Wang, L.; Takeuchi, K. J.; Marschilok, A. M.; Takeuchi, E. S.; West, A. C. Understanding Evolution of Lithium Trivanadate Cathodes During Cycling via Reformulated Physics-Based Models and Experiments. *J. Electrochem. Soc*. 2021. [paper](https://doi.org/10.1149/1945-7111/abff67).
+- **Mayilvahanan, K. S.**; Kuang, J.; McCarthy, A. H.; Wang, L.; Takeuchi, K. J.; Marschilok, A. M.; Takeuchi, E. S.; West, A. C. Understanding Evolution of Lithium Trivanadate Cathodes During Cycling via Reformulated Physics-Based Models and Experiments. *J. Electrochem. Soc*. 2021. [paper](https://doi.org/10.1149/1945-7111/abff67).
 - Li, A. G.; **Mayilvahanan, K. S.**; West, A. C.; Preindl, M. Discrete-Time Modeling of Li-Ion Batteries with Electrochemical Overpotentials Including Diffusion. *Journal of Power Sources*, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037877532100519X).
 - Hui, Z.; **Mayilvahanan, K.**; Ganko, K.; Yang, Y.; Zhang, X.; Ju, Z.; Takeuchi, K. J.; Marschilok, A. C.; Yu, G.; Takeuchi, E.; West, A. C. Optimal Electrode-Scale Design of Li-Ion Electrodes: A General Correlation. *Energy Storage Materials*, 2021. [paper](https://doi.org/10.1016/j.ensm.2021.04.018).
 
